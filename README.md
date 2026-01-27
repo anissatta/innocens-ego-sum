@@ -1,6 +1,9 @@
 # innocens-ego-sum
 
 ### 26. 1. 27 
+- https://youtube.com/shorts/RZJztZghMb8
+- https://youtube.com/shorts/bE5K_S5pnO4
+
 - ![a](/260127/a.jpg)
 - ![b](/260127/b.jpg)
 - ![c](/260127/c.jpg)
