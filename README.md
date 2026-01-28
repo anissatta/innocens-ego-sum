@@ -1,5 +1,72 @@
 # innocens-ego-sum
 
+### 26. 1. 28 
+- Please note that, just twelve trials have been held for Kim Keon Hee as of today and only a few of them were broadcasted.
+  - https://namu.wiki/w/%EA%B9%80%EA%B1%B4%ED%9D%AC-%EB%AA%85%ED%83%9C%EA%B7%A0-%EA%B1%B4%EC%A7%84%EB%B2%95%EC%82%AC%20%EA%B2%8C%EC%9D%B4%ED%8A%B8/%EC%9E%AC%ED%8C%90/%EA%B9%80%EA%B1%B4%ED%9D%AC#toc
+
+##### 1st trial 
+- It was broadcasted: https://www.youtube.com/live/HjuRxm5__80
+- *'4398' 번호 달고 법정 선 김건희… 직업 묻자 "무직"* 
+  - https://www.chosun.com/national/court_law/2025/09/25/WWBYMPSDXZEJDIRWNQORROUPDM/
+
+##### 2nd trial 
+- Look, they used the photo taken on Sept. 24 again. 
+- *김건희 "수익 40% 주기로 해"…법정서 주가조작 의혹 녹취 공개* 
+  - https://www.yna.co.kr/view/AKR20251015156700004
+
+##### 3rd trial 
+- They were still using the photo taken on Sept. 24. 
+- *김건희 특검, '통일교 청탁' 목걸이·구두·가방 실물 확보* 
+  - http://weekly.chosun.com/news/articleView.html?idxno=45431
+
+##### 4th trial 
+- They used a photo of this man instead of Kim's. 
+- *건진법사, 김건희 재판서 "샤넬 가방·그라프 목걸이, 金에게 전달됐다" 법정 증언* 
+  - https://www.chosun.com/national/court_law/2025/10/24/LCW4OIPGOJBNTLQZRWTULLRTBQ/
+
+##### 5th trial 
+- Apparently it's not a photo taken at the court. 
+- *건진 처남 "2022년 건진 심부름으로 아크로비스타 방문… 작년 한남동서 물건 돌려받아"* 
+  - https://www.chosun.com/national/court_law/2025/10/29/UOT5FD63PFC4TGTWLWB3USWBLA/
+
+##### 6th trial 
+- Still they were using this photo taken on Sept. 24. 
+- *김건희 여사 재판부 "26일 결심 공판"… 이르면 다음달 1심 선고* 
+  - https://biz.chosun.com/topics/law_firm/2025/11/05/7ROUBKABIJDH7JUCGPRDNVZUJU/
+
+##### 7th trial 
+- No dates given, but it's apparently what was taken on Sept. 24. See http://weekly.chosun.com/news/articleView.html?idxno=45782
+- *'도이치 피의자' 메시지 나오자 金여사 고개 푹… 재판 중 퇴정* 
+  - https://www.chosun.com/national/court_law/2025/11/07/TYL54MS75VD7NNYKPRF7BLMXPY/
+
+##### 8th trial 
+- Still they were using what was taken on Sept. 24. 
+- *건진법사가 김건희에 건넨 샤넬 가방·그라프 목걸이 첫 공개… "약간 긁힌 듯"* 
+  - https://biz.chosun.com/topics/law_firm/2025/11/12/CUW5RZ3XTFBBDP4WGK2KCIMIXA/
+
+##### 9th trial 
+- This doesn't contain any photos of her. But on the same day, they published following article which uses that photo taken on Sept. 24. 
+- *김건희 최측근 "김 여사, '건희2' 휴대폰 한두 번 빌려 써"* 
+  - https://www.chosun.com/national/court_law/2025/11/14/MJ3BG7JZXZCVJLKWEVDH5VPQ6Y/
+
+##### 10th trial 
+- It was broadcasted: https://youtu.be/YwBeQ-IX-78
+- Suddenly they started using freshly taken photos. 
+- *풀어헤친 머리·흰 마스크, 들것에 기대 앉아...김건희 여사 재판 일부 중계* 
+  - http://weekly.chosun.com/news/articleView.html?idxno=46150
+- *머리 푼 김건희 모습 재판 중계…'주가조작 의사' 공방도* 
+  - https://www.newsis.com/view/NISX20251119_0003409701
+
+##### 11th trial 
+- No dates given (cf: 김건희 문고리 유경옥 “‘건진 심부름 했다고 진술해주겠니’ 부탁했다”, https://www.seoul.co.kr/news/society/law/2025/11/26/20251126500303) 
+- *김건희 문고리 "영부인, 샤넬 가방 수사 시작되자 '건진 심부름했다고 진술해주겠니' 부탁했다"* 
+  - https://www.chosun.com/national/court_law/2025/11/26/5AJUJ3LGEVD4PBAJAVLPQM7IZQ/
+
+##### 12th trial 
+- It was broadcasted: https://www.youtube.com/live/SLa6wrbrZjY
+- *마스크 거꾸로 쓴 채 초조한 눈빛...김건희, 결심공판에서 진술 거부* 
+  - http://weekly.chosun.com/news/articleView.html?idxno=46574
+
 ### 26. 1. 27 
 - https://youtube.com/shorts/RZJztZghMb8
 - https://youtube.com/shorts/bE5K_S5pnO4
