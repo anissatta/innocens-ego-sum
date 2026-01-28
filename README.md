@@ -1,6 +1,7 @@
 # innocens-ego-sum
 
 ### 26. 1. 28 
+- PPS: :popcorn: https://youtu.be/PPounwh48Ak
 - PS: 求刑は15年だったのですが、たったの1年8ヶ月だそうです。少しがっかりです。 :disappointed: *\[속보\] '통일교 금품 수수' 김건희, 징역 1년 8개월·1281만 원 추징·그라프 목걸이 압수* 
   - https://www.lawtimes.co.kr/news/215397
 
