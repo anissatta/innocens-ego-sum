@@ -1,6 +1,11 @@
 # innocens-ego-sum
 
 ### 26. 1. 28 
+- :movie_camera: *[🔴특보] '도이치·통일교 금품수수' 김건희 1심 선고…오늘 오후 2시 생중계/2026년 1월 28일(수)/KBS* 
+  - https://www.youtube.com/live/ftg7k6h3q7w
+- :movie_camera: *‘V0’ 김건희 오늘 첫 선고…오후 2시10분 법원 생중계*  
+  - https://www.hani.co.kr/arti/society/society_general/1242001.html
+
 - Please note that, just twelve trials have been held for Kim Keon Hee as of today and only a few of them were broadcasted.
   - https://namu.wiki/w/%EA%B9%80%EA%B1%B4%ED%9D%AC-%EB%AA%85%ED%83%9C%EA%B7%A0-%EA%B1%B4%EC%A7%84%EB%B2%95%EC%82%AC%20%EA%B2%8C%EC%9D%B4%ED%8A%B8/%EC%9E%AC%ED%8C%90/%EA%B9%80%EA%B1%B4%ED%9D%AC#toc
 
