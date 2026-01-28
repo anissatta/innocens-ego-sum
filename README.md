@@ -1,6 +1,9 @@
 # innocens-ego-sum
 
 ### 26. 1. 28 
+- PS: 求刑は15年だったのですが、たったの1年8ヶ月だそうです。少しがっかりです。 :disappointed: *\[속보\] '통일교 금품 수수' 김건희, 징역 1년 8개월·1281만 원 추징·그라프 목걸이 압수* 
+  - https://www.lawtimes.co.kr/news/215397
+
 - :movie_camera: *[🔴특보] '도이치·통일교 금품수수' 김건희 1심 선고…오늘 오후 2시 생중계/2026년 1월 28일(수)/KBS* 
   - https://www.youtube.com/live/ftg7k6h3q7w
 - :movie_camera: *‘V0’ 김건희 오늘 첫 선고…오후 2시10분 법원 생중계*  
