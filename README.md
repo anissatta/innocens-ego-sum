@@ -45,9 +45,11 @@
   - https://biz.chosun.com/topics/law_firm/2025/11/12/CUW5RZ3XTFBBDP4WGK2KCIMIXA/
 
 ##### 9th trial 
-- This doesn't contain any photos of her. But on the same day, they published following article which uses that photo taken on Sept. 24. 
 - *김건희 최측근 "김 여사, '건희2' 휴대폰 한두 번 빌려 써"* 
   - https://www.chosun.com/national/court_law/2025/11/14/MJ3BG7JZXZCVJLKWEVDH5VPQ6Y/
+- This doesn't contain any photos of her. But on the same day, they published following article which uses that photo taken on Sept. 24. 
+- *특검 "국힘 전당대회에 통일교 신도 2400명 당원 가입"* 
+  - https://www.chosun.com/national/court_law/2025/11/14/RYHXQTHGKRBXTEA2SEJGE6JSNY/
 
 ##### 10th trial 
 - It was broadcasted: https://youtu.be/YwBeQ-IX-78
