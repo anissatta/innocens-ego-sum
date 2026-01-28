@@ -1,6 +1,11 @@
 # innocens-ego-sum
 
 ### 26. 1. 28 
+- コノミヤプリペイドカードの使用履歴確認画面( https://www.vcsys.com/s/konomiya/m/ ) のドメイン名である*vcsys.com*が何であるのか気になった方もおられることでしょうが、結論から述べるとこれは株式会社バリューデザイン( https://www.valuedesign.jp/ )が提供しているサービスの利用者(この場合だとコノミヤ)用のサーバーのドメインなのです。
+- こういったことも時間が経てば理解されることと思いますが、同じドメイン内にはスーパーハートというスーパーマーケットのプリペイドカードである「モ〜ちゃんカード」の使用履歴確認画面も存在し( https://www.vcsys.com/s/nakayama-farm/p/ )、このURLはスーパーハートのホームページ内にも記載されています(「残高照会へ」というボタンを押して下さい)。( https://heart.nakayama-farm.jp/card/ ) 
+- 他にもL. L. Beanのホームページ( https://www.llbean.co.jp/point-info.html )には https://www.vcsys.com/s/llbean/p/ へのリンクが存在しますし、麻布テーラーのホームページ( https://www.azabutailor.com/giftcard/ )には https://www.vcsys.com/s/azabutailor/p/ へのリンクがあり、アゼリアのホームページ( https://www.azalea.co.jp/topics/4967 )には https://www.vcsys.com/s/azalea2/m/ へのリンクがあり、コメダ珈琲店のホームページ( https://komeda.club/cont101.php?kmws=0ugd8oa1bclq59aep4e04jill3 )には https://www.vcsys.com/s/komeda/m/ へのリンクがあり、プロントのホームページ( https://www.pronto.co.jp/service/prontomoney-gift.html )には https://www.vcsys.com/s/pronto/m/ が記載されています。 
+- 私が今回トップワールドを利用しないことにしたのは(1)同じ買い物をするにしてもコノミヤの方がお金を使わずに済む場合が多く、(2)韓国食材が豊富であり(コノミヤは大阪鶴橋にも店舗を構えているそうです)、(3)トップワールドのようなえげつない悪戯をしない、ことから現在私が置かれている状況ではコノミヤを利用するのが合理的だと判断したからです。
+
 - *South Korea's ex-first lady jailed 20 months for bribery* 
   - https://www.bbc.com/news/articles/cevnppplkjjo
 
