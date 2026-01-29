@@ -1,6 +1,8 @@
 # innocens-ego-sum
 
 ### 26. 1. 29 
+- https://youtu.be/BAKy9Y-Lv6Y
+- https://youtu.be/Qpim1n3OuvY
 - https://github.com/anissatta/innocens-ego-sum/blob/master/jan29/hs3.m4a
 
 ---- 
