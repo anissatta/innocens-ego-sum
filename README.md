@@ -1,5 +1,9 @@
 # innocens-ego-sum
 
+### 26. 1. 30 
+- 제가 어제 일본어로 말한 일에 대해 조사하고 싶으시면 다음 동영상을 내고 있는 채널(**@대한민국서울중앙지법**)이 가지고 있는 동영상들을 다 하나하나 확인해 보시길 바랍니다. 
+  - https://youtu.be/lPNwF9FJkKA
+
 ### 26. 1. 29 
 - https://youtu.be/BAKy9Y-Lv6Y
 - https://youtu.be/Qpim1n3OuvY
