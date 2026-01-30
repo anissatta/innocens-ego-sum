@@ -3,6 +3,7 @@
 ### 26. 1. 30 
 - NOTE: 投票所番号は下記ページにて調べることが出来ます: 
   - https://www.city.takatsuki.osaka.jp/soshiki/80/150948.html
+- https://youtube.com/shorts/dqBvKBdJ-8I
 - ![1](/260130/1.jpg)
 - ![2](/260130/2.jpg)
 
